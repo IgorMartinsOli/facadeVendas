@@ -1,0 +1,5 @@
+com\mycompany\facadevendas\AluguelCarro.class
+com\mycompany\facadevendas\client.class
+com\mycompany\facadevendas\Facade.class
+com\mycompany\facadevendas\ReservaHotel.class
+com\mycompany\facadevendas\ReservaAereo.class
